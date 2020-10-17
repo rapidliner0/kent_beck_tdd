@@ -3,5 +3,5 @@
 ☐ amountをprivateにする
 ✔ Dollarの副作用どうする？ @done(20-10-17 10:05)
 ☐ Moneyの丸め処理どうする？
-☐ equals()
+✔ equals() @done(20-10-17 10:44)
 ☐ hashCode()
