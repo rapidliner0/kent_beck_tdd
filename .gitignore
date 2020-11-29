@@ -1,2 +1,3 @@
-money/target/classes/money/Dollar.class
-money/target/classes/money/MoneyTest.class
+money/target
+money/.project
+money/.settings
