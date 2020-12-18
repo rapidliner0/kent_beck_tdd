@@ -1,7 +1,7 @@
 ☐ $5 + 10 CHF = $10 (レートが2:1の場合)
 ☐ $5 + $5 = 10
 ☐ $5 + $5 がMoney を返す
-☐ Bank.reduce(Money)
+✔ Bank.reduce(Money) @done(20-12-18 23:37)
 ✔ $5 * 2 = $ 10 @done(20-10-17 09:41)
 ✔ amountをprivateにする @done(20-10-24 06:43)
 ✔ Dollarの副作用どうする？ @done(20-10-17 10:05)
